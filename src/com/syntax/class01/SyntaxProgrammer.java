@@ -1,0 +1,21 @@
+package com.syntax.class01;
+
+public class SyntaxProgrammer {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+System.out.println("I am a Java Programmer. I Study at Syntax.");
+	System.out.println("I am trying love Java!");
+	System.out.println("!!!");
+	
+	System.out.print("I am a Java Programmer.");
+	System.out.println("I study at Syntax");
+	System.out.println();
+	System.out.print("!!!");
+	
+	
+	}
+	
+	
+
+}
