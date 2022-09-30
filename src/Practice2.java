@@ -4,25 +4,17 @@ import java.util.Scanner;
 public class Practice2 {
 	public static void main(String[] args) {
 
+		int m=2, total=0;
 
-		int i;
-        Scanner scan=new Scanner (System.in);
+		while(m<6) {
 
-        int num=scan.nextInt();
-     
-        int [] arr=new int [num];
-        
-        System.out.println(num);
+		   total=total+m;
 
-        for ( i=0; i<num; i=num*10) {
-            arr[i]= scan.nextInt();
-            
-            
-        }
+		   m++;
 
+		}
 
-	
-		
+		System.out.print(total);
+
 }
-
 }
