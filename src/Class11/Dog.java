@@ -6,8 +6,6 @@ public class Dog {
     // attributes/ properties/ fields
     String name;
     String color;
-
-
     String breed;
     double weight;
     int age;

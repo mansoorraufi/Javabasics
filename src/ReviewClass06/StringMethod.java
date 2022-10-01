@@ -3,19 +3,37 @@ package ReviewClass06;
 public class StringMethod {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Notes: we can assign the same folder only for the same data type
+		// Ex: str=str.toUpperCase.
+		//We can't use the varialbe -srt- in a -Char data type-, because -srt-  is initialized for -String data time-
+
 
 		String str="hello";
 
-		// finds only one character of the word.
-		char letter=str.charAt(0);
+		// otUpporCase or toLowerCase (its a Method)
+		str=str.toUpperCase(); // this is an object of the Class
+		System.out.println(str); //HELLO.
+
+
+		//length(); -> (its a Method) gives size
+		int size=str.length();
+		System.out.println(size); // 5
+
+		//charAt(); -> (its a Method) finds only one character or letter of the word.
+		char letter=str.charAt(0);// enter the index number inside ()
 		System.out.print(letter);
 
-		System.out.println();
 
 		// finds last character
 		char lastCharacter=str.charAt(str.length()-1);
 		System.out.println(lastCharacter);
+
+		//indexOf(); gives the value of the index we type.
+
+		int index=str.indexOf(lastCharacter);
+		System.out.println(index);//#4
+		//or
+		System.out.println(str.indexOf('L')); // #2
 
 
 		//trim

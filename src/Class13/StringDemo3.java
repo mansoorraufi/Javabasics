@@ -4,7 +4,7 @@ public class StringDemo3 {
 
 	public static void main(String[] args) {
 	
-		   String str="HELLO how ARE you?12340@#$%&*";
+		   String str="HELLO how ARE you? 1234567890@#$%&*";
 		    
 		     // Replace all numbers from 0 to 9 with @
 		     
