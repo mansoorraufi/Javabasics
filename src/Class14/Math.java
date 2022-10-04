@@ -22,9 +22,9 @@ package Class14;
 
         public static void main(String[] args) {
             Math obj=new Math(); // Creating an object of the Math class
-/*        obj.printFiboSeries(5); // this is how we execute the logic present inside the methods
+       obj.printFiboSeries(5); // this is how we execute the logic present inside the methods
         System.out.println("***********");
-        obj.printFiboSeries(10);*/
+        obj.printFiboSeries(10);
             obj.add(10,20);
 
         }

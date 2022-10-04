@@ -19,6 +19,7 @@ public class Practice01 {
         for (int index = 0; index < 5; index++) {
             System.out.print(egArray[index] + " ");
         }
+        System.out.println("=========================");
 
         char array_variable[] = new char[10];
         for (int i = 0; i < 10; ++i) {

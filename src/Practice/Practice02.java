@@ -14,6 +14,7 @@ public class Practice02 {
         }
 
         System.out.print(total);
+
     }
 
     }

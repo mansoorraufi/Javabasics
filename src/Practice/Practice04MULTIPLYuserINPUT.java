@@ -2,7 +2,7 @@ package Practice;
 
 import java.util.Scanner;
 
-public class Practice04 {
+public class Practice04MULTIPLYuserINPUT {
     public static void main(String[] args) {
 
         // Using Scanner in loop

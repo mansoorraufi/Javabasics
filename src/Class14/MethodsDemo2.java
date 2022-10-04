@@ -13,7 +13,7 @@ public class MethodsDemo2 {
 
     public static void main(String[] args) {
         MethodsDemo2 md = new MethodsDemo2();
-       // md.printManyTimes(5);
+        md.printManyTimes(3);
         md.printCustomerWordManyTimes("Syntax Easy",4);
     }
 }
