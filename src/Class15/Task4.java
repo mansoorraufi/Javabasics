@@ -17,7 +17,9 @@ public class Task4 {
             } else if ("Japan".equals(country)) {
                 System.out.println("Nihau");
             } else {
-                System.out.println("Country not supported");}
+                System.out.println("Country not supported");
+            }
+
         }
     }
 
