@@ -4,7 +4,7 @@ public class MethodDemo1 {
 
     // a method that does not take any parameters and prints some lines on the console
 
-    void printHello(){ // empty brackets no parameters or data type inside it
+    void printHello(){ // empty brackets no parameters or data type inside it(no parameters){}
         System.out.println("Hello World");
         System.out.println("Hello Java");
         System.out.println("Hello Aladin");

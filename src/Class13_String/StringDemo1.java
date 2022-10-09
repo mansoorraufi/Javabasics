@@ -19,7 +19,7 @@ public class StringDemo1 {
 	System.out.println(c);
 	
 	// convert String to Char
-	char [] charArr=str.toCharArray();
+	char [] charArr=str.toCharArray(); // toCharArray method converts the string
 	System.out.println(Arrays.toString(charArr));
 	
 	//convert to String
