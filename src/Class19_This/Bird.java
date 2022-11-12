@@ -1,4 +1,4 @@
-package Class19;
+package Class19_This;
 
 public class Bird {
     String name;

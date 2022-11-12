@@ -1,4 +1,4 @@
-package Class23;
+package Class23_Abstract_and_;
 
 public abstract class Animal {
     abstract void eat();
@@ -10,7 +10,6 @@ public abstract class Animal {
     public static void main(String[] args) {
         //Animal animal=new Animal() ;
         //  aniaml.eat();
-        // Break till 11:50
 
     }
 }

@@ -1,4 +1,4 @@
-package Class19;
+package Class19_This;
 
 public class Parrot extends Bird{
     Parrot(String name,String color,int age,double weight){

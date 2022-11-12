@@ -18,6 +18,10 @@ class Z{
     }
 }
 class W extends Z{
+    static void printF(){
+        System.out.println("F in class W");
+
+    }
 
 }
 

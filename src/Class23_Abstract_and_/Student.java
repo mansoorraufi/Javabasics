@@ -1,4 +1,4 @@
-package Class23;
+package Class23_Abstract_and_;
 
 public class Student {
         /*

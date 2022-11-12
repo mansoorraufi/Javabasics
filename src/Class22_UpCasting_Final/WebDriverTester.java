@@ -1,4 +1,4 @@
-package Class22_UpCasting;
+package Class22_UpCasting_Final;
 
 public class WebDriverTester {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Class22_UpCasting;
+package Class22_UpCasting_Final;
 
 public class Task2 { /*
     Create a class CreditCard and define variable balance and interest.

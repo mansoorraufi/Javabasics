@@ -1,4 +1,4 @@
-package Class22_UpCasting;
+package Class22_UpCasting_Final;
 
 public class AnimalTester {public static void main(String[] args) {
     Cat cat=new Cat();

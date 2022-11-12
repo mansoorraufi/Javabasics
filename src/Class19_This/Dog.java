@@ -1,4 +1,4 @@
-package Class19;
+package Class19_This;
 
 public class Dog extends Animal {
     // No need to reuse instance var, as we have them in parrent class (Animal)
